@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Chauhan</h1>
-<h3 align="center">A passionate frontend developer, Problem solver and eager to learn new techs from India</h3>
+<h3 align="center">A passionate frontend developer, Problem solver and eager to learn new techs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanchauhan06&label=Profile%20views&color=0e75b6&style=flat" alt="ishanchauhan06" /> </p>
 
